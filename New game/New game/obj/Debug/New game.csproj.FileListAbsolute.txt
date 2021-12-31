@@ -1,0 +1,19 @@
+C:\Users\pinst\source\repos\New game\New game\bin\Debug\New game.exe.config
+C:\Users\pinst\source\repos\New game\New game\bin\Debug\New game.exe
+C:\Users\pinst\source\repos\New game\New game\bin\Debug\New game.pdb
+C:\Users\pinst\source\repos\New game\New game\obj\Debug\New game.csprojAssemblyReference.cache
+C:\Users\pinst\source\repos\New game\New game\obj\Debug\New_game.Form1.resources
+C:\Users\pinst\source\repos\New game\New game\obj\Debug\New_game.Properties.Resources.resources
+C:\Users\pinst\source\repos\New game\New game\obj\Debug\New game.csproj.GenerateResource.cache
+C:\Users\pinst\source\repos\New game\New game\obj\Debug\New game.exe
+C:\Users\pinst\source\repos\New game\New game\obj\Debug\New game.pdb
+E:\visuakl\New game\New game\bin\Debug\New game.exe.config
+E:\visuakl\New game\New game\bin\Debug\New game.exe
+E:\visuakl\New game\New game\bin\Debug\New game.pdb
+E:\visuakl\New game\New game\obj\Debug\New_game.Form1.resources
+E:\visuakl\New game\New game\obj\Debug\New_game.Properties.Resources.resources
+E:\visuakl\New game\New game\obj\Debug\New game.csproj.GenerateResource.cache
+E:\visuakl\New game\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+E:\visuakl\New game\New game\obj\Debug\New game.exe
+E:\visuakl\New game\New game\obj\Debug\New game.pdb
+E:\visuakl\New game\New game\obj\Debug\New game.csproj.AssemblyReference.cache
